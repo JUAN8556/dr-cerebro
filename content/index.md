@@ -16,12 +16,19 @@ Esta wiki no es un archivo de bookmarks. Es una **base de conocimiento viva**: c
 - Cada artículo cierra con un bloque de **"Artículos relacionados"** y, más abajo, **backlinks** automáticos.
 - El **buscador** (atajo `Cmd/Ctrl + K`) busca por texto completo.
 
+## 🆕 Últimas ingestas
+
+*Corrida del 2026-04-08 — 2 enlaces procesados, 2 artículos actualizados (0 nuevos).*
+
+- 🆕 [[herramientas-dev-y-productividad|Herramientas dev y productividad]] — añadido **Screens Connect 5** de Edovia (acceso remoto al Mac sin port forwarding manual).
+- 🆕 [[agentes-ia-y-herramientas-claude|Agentes IA y herramientas Claude]] — anotado anuncio oficial de @claudeai (pendiente de lectura: dominio bloqueado en la ventana automática).
+
 ## Artículos activos
 
-- [[segundo-cerebro-y-gestion-del-conocimiento|Segundo cerebro y gestión del conocimiento]] — la filosofía Karpathy/Azaustre detrás de este sistema.
-- [[agentes-ia-y-herramientas-claude|Agentes IA y herramientas Claude]] — MCPs, skills, OpenClaw, rumores de modelos nuevos.
+- 🆕 [[segundo-cerebro-y-gestion-del-conocimiento|Segundo cerebro y gestión del conocimiento]] — la filosofía Karpathy/Azaustre detrás de este sistema.
+- 🆕 [[agentes-ia-y-herramientas-claude|Agentes IA y herramientas Claude]] — MCPs, skills, OpenClaw, rumores de modelos nuevos.
 - [[video-ia-y-cine-generativo|Video IA y cine generativo]] — Netflix VOID, Higgsfield Soul Cinema, captions dinámicos.
-- [[herramientas-dev-y-productividad|Herramientas dev y productividad]] — utilidades open-source que no necesitan IA.
+- 🆕 [[herramientas-dev-y-productividad|Herramientas dev y productividad]] — utilidades open-source que no necesitan IA.
 - [[biblia-catolica-referencia|Biblia católica — referencia estructural]] — capítulos por libro, canon de 73 libros.
 
 ## Cómo funciona

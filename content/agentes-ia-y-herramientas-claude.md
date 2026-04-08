@@ -1,4 +1,6 @@
-# Agentes IA y herramientas Claude | 5 fuentes
+# Agentes IA y herramientas Claude | 6 fuentes
+
+Última actualización: 2026-04-08
 
 ## Resumen ejecutivo
 
@@ -28,6 +30,8 @@ Panorama de abril de 2026 sobre el ecosistema de agentes IA centrado en Claude y
 
 **Tutorial completo de OpenClaw por PeladoNerd** (Pablo Fredrikson @PeladoNerd, 8 abr 2026). 74 minutos en YouTube, gratis, sin ads ni integraciones (https://youtu.be/JVA09oUTXzM). Punto de entrada directo para montar un agente 24/7 tipo el que usa Carlos Azaustre para su [[segundo-cerebro-y-gestion-del-conocimiento|segundo cerebro]].
 
+**Anuncio oficial @claudeai — pendiente de lectura** (cuenta oficial del producto Claude, 8 abr 2026). Enlace ingestado en la ventana del 8 abr (https://x.com/claudeai/status/2041927687460024721) cuyo contenido no pudo recuperarse en esta corrida: x.com estaba bloqueado por el proxy de egreso de la sesión automática. Por el origen se asume anuncio de producto de Anthropic — posible confirmación o matización del rumor de **Claude Mythos** mencionado arriba, o novedad de skills/MCPs oficiales. Queda marcado para reintento manual o en la próxima ventana de ingesta.
+
 ## Artículos relacionados
 
 - [[segundo-cerebro-y-gestion-del-conocimiento]] — el sistema completo sobre OpenClaw
@@ -41,3 +45,4 @@ Panorama de abril de 2026 sobre el ecosistema de agentes IA centrado en Claude y
 - [OpenClaw — SOUL.md Personality Guide](https://x.com/openclaw/status/2041003999856406714)
 - [Freddy Vega — rumor Claude Mythos](https://x.com/freddier/status/2041657708957593653)
 - [PeladoNerd — tutorial OpenClaw 74 min](https://x.com/peladonerd/status/2041892794273243491)
+- [@claudeai — anuncio oficial (pendiente de lectura)](https://x.com/claudeai/status/2041927687460024721)
